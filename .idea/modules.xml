@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-lookup/core-lookup.iml" filepath="$PROJECT_DIR$/core-lookup/core-lookup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firsttp.iml" filepath="$PROJECT_DIR$/firsttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestionnaireMontre/gestionnaireMontre.iml" filepath="$PROJECT_DIR$/gestionnaireMontre/gestionnaireMontre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time-service-impl/time-service-impl.iml" filepath="$PROJECT_DIR$/time-service-impl/time-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timer-service/timer-service.iml" filepath="$PROJECT_DIR$/timer-service/timer-service.iml" />
+    </modules>
+  </component>
+</project>
